@@ -1,1 +1,9 @@
 worker: node asuna.js
+npm i fs
+npm i discord.js
+npm i canvas
+npm i ffmpeg-binaries
+npm i moment
+npm i sqlite 
+npm i ytdl-core
+npm i ms 
